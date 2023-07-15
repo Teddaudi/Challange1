@@ -1,0 +1,44 @@
+
+.Hero{
+    display: flex;
+    margin: 40px 40px;
+   
+}
+.text h1{
+    font-weight: 800;
+    font-size: x-large;
+    font-size: 50px;
+    
+}
+.text p{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.hero-image{
+    margin-left: 50px;
+}
+.hero-image button{
+    outline: none;
+}
+.hero-image img{
+    width: 500px;
+    height: 500px;
+}
+.text{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.learn-button{
+    border: none;
+    justify-content: center;
+    text-align: center;
+    padding: 16px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+}
+.learn-button:hover{
+    cursor: pointer;
+    background-color: #ffd700;
+}
